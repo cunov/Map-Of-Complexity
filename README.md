@@ -7,6 +7,6 @@ Limitations include:
 * researchers don't always enter their email or affiliation correctly, or have multiple and I may have misattributed their main one
 * some are no longer active
 * researchers may co-author a lot with someone who isn't active in the field
-* this one misses out on the young, not-yet-published researchers which when choosing a lab is a very important consideration!
+* this one misses out on the younger, less-published researchers which is a very important consideration when choosing a lab!
 
 https://public.tableau.com/profile/ccunov#!/vizhome/Complexity_Researchers/Sheet1?publish=yes
